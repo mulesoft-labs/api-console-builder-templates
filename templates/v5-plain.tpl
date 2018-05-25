@@ -31,7 +31,7 @@
 </head>
 <body unresolved>
   <app-location use-hash-as-path></app-location>
-  <api-console aware="api-model"></api-console>
+  <api-console></api-console>
   <script>
   /**
    * The following script will handle API console routing when using the c
