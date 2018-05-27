@@ -17,6 +17,8 @@
     body {
       height: 100%;
       background-color: #fff;
+      margin: 0;
+      padding: 0;
     }
 
     api-console {
