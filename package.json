@@ -1,6 +1,6 @@
 {
   "name": "api-console-builder-templates",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Module to manage Mulesoft's API console templates in the build process.",
   "main": "main.js",
   "scripts": {
@@ -27,7 +27,7 @@
   "homepage": "https://github.com/mulesoft-labs/api-console-builder-templates#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^3.2.0"
+    "mocha": "^5.2.0"
   },
   "dependencies": {
     "fs-extra": "^3.0.0",
